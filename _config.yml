@@ -6,9 +6,9 @@ color:
   saturation: 0.7588077092077583
   rhythmicContrast: 0.42461498989723623
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
 name: Context Banana
