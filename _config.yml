@@ -1,0 +1,14 @@
+layout_spectrum: 0.3419188680127263
+typography_spectrum: 0.7162821674719453
+color:
+  brandStrength: 0.5877832737751305
+  lightness: 0.6641015992499888
+  saturation: 0.7588077092077583
+  rhythmicContrast: 0.42461498989723623
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Context Banana
